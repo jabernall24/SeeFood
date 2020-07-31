@@ -1,3 +1,7 @@
 # SeeFood - Eat With Your Eyes
 
-<img src="HomeScreen.png" width="200" title="hover text"> <img src="Search.png" width="200" title="hover text"> <img src="Categories.png" width="200" title="hover text">
+### Light Mode
+<img src="HomeScreen.png" width="200" title="hover text"> <img src="Search.png" width="200" title="hover text"> <img src="Categories.png" width="200" title="hover text"> <img src="MenuList.png" width="200" title="hover text"> <img src="Dish.png" width="200" title="hover text">
+
+### Dark Mode
+<img src="HomeScreenDark.png" width="200" title="hover text"> <img src="SearchDark.png" width="200" title="hover text"> <img src="CategoriesDark.png" width="200" title="hover text"> <img src="MenuListDark.png" width="200" title="hover text"> <img src="DishDark.png" width="200" title="hover text">
