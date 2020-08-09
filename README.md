@@ -1,5 +1,5 @@
 # SeeFood - Eat With Your Eyes
-<img src="images/app_store/v1.0.4/1.png" width="150" title="hover text"> <img src="images/app_store/v1.0.4/2.png" width="150" title="hover text"> <img src="images/app_store/v1.0.4/3.png" width="150" title="hover text"> <img src="images/app_store/v1.0.4/4.png" width="150" title="hover text"> <img src="images/app_store/v1.0.4/5.png" width="150" title="hover text"> <img src="images/app_store/v1.0.4/6.png" width="150" title="hover text">
+<img src="images/app_store/v1.0.4/1.png" width="125" title="hover text"> <img src="images/app_store/v1.0.4/2.png" width="125" title="hover text"> <img src="images/app_store/v1.0.4/3.png" width="125" title="hover text"> <img src="images/app_store/v1.0.4/4.png" width="125" title="hover text"> <img src="images/app_store/v1.0.4/5.png" width="125" title="hover text"> <img src="images/app_store/v1.0.4/6.png" width="125" title="hover text">
 
 ```
 Stay safe and stay clean. Use SeeFood to avoid physical menus when dining out. 
