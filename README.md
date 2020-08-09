@@ -20,10 +20,7 @@ Growing every day, we currently focus and serve the Monterey Bay Area. We are ad
 
 
 ### Light Mode
-<img src="HomeScreen.png" width="150" title="hover text"> <img src="Search.png" width="150" title="hover text"> <img src="Categories.png" width="150" title="hover text"> <img src="MenuList.png" width="150" title="hover text"> <img src="Dish.png" width="150" title="hover text">
-
-### Dark Mode
-<img src="HomeScreenDark.png" width="150" title="hover text"> <img src="SearchDark.png" width="150" title="hover text"> <img src="CategoriesDark.png" width="150" title="hover text"> <img src="MenuListDark.png" width="150" title="hover text"> <img src="DishDark.png" width="150" title="hover text">
+<img src="images/app_store/v1.0.4/1.png" width="150" title="hover text"> <img src="images/app_store/v1.0.4/2.png" width="150" title="hover text"> <img src="images/app_store/v1.0.4/3.png" width="150" title="hover text"> <img src="images/app_store/v1.0.4/4.png" width="150" title="hover text"> <img src="images/app_store/v1.0.4/5.png" width="150" title="hover text"> <img src="images/app_store/v1.0.4/6.png" width="150" title="hover text">
 
 [Download From The App Store]()
 
