@@ -21,4 +21,4 @@ SeeFood is a technology company that connects people and restaurants. We do this
 Growing every day, we currently focus and serve the Monterey Bay Area. We are adding new restaurant partners and menus weekly.
 
 
-[Download From The App Store]()
+[<img src="app_store.png" width="400" title="hover text">](https://codecrunch.io)
