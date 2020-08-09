@@ -1,4 +1,6 @@
 # SeeFood - Eat With Your Eyes
+<img src="images/app_store/v1.0.4/1.png" width="150" title="hover text"> <img src="images/app_store/v1.0.4/2.png" width="150" title="hover text"> <img src="images/app_store/v1.0.4/3.png" width="150" title="hover text"> <img src="images/app_store/v1.0.4/4.png" width="150" title="hover text"> <img src="images/app_store/v1.0.4/5.png" width="150" title="hover text"> <img src="images/app_store/v1.0.4/6.png" width="150" title="hover text">
+
 ```
 Stay safe and stay clean. Use SeeFood to avoid physical menus when dining out. 
 View restaurant menus from the comfort of your own device.
@@ -19,10 +21,4 @@ SeeFood is a technology company that connects people and restaurants. We do this
 Growing every day, we currently focus and serve the Monterey Bay Area. We are adding new restaurant partners and menus weekly.
 
 
-### Light Mode
-<img src="images/app_store/v1.0.4/1.png" width="150" title="hover text"> <img src="images/app_store/v1.0.4/2.png" width="150" title="hover text"> <img src="images/app_store/v1.0.4/3.png" width="150" title="hover text"> <img src="images/app_store/v1.0.4/4.png" width="150" title="hover text"> <img src="images/app_store/v1.0.4/5.png" width="150" title="hover text"> <img src="images/app_store/v1.0.4/6.png" width="150" title="hover text">
-
 [Download From The App Store]()
-
-
-Images done on [photopea](https://www.photopea.com/).
